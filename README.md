@@ -30,7 +30,7 @@
 - The claim status is then updated with PUT operation.
 - This claim can be stored or deleted with DELETE operation.
 
-![alt text](<Education Whiteboard in Pastel Orange Teal Rose Pink Style.png>)
+![Education Whiteboard in Pastel Orange Teal Rose Pink Style](https://github.com/user-attachments/assets/7037070b-494a-42d5-9e21-7f0c4c3b5376)
 
 - File Structure:
 
