@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+python-jose[cryptography] 
+passlib[bcrypt] 
+python-multipart 
+celery 
+redis 
+slowapi 
+python-dotenv 
+pytest 
+httpx
